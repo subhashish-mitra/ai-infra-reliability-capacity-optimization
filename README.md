@@ -18,7 +18,7 @@
   training 4 gradient‑boosting models (best CV R² = 0.815) with SHAP explainability, 
   regional bias auditing, and a closed‑loop agentic NL query workflow across 2,600 
   synthetic telemetry records (seed=42).  
-  👉 [View the GitHub Repository](https://github.com/subhashishmitra/ai-infra-reliability-capacity-optimization)
+  👉 [View the GitHub Repository](https://github.com/subhashish-mitra/ai-infra-reliability-capacity-optimization)
 
 ---
 
