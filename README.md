@@ -14,6 +14,7 @@
 ## 🚀 Featured Projects
 
  **AI Infrastructure Reliability & Capacity Optimization**  
+ 
   Production‑pattern 4‑tier ML system integrating Spectrum‑X / Fabric360 / FlowQ telemetry, 
   training 4 gradient‑boosting models (best CV R² = 0.815) with SHAP explainability, 
   regional bias auditing, and a closed‑loop agentic NL query workflow across 2,600 
